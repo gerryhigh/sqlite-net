@@ -18,7 +18,7 @@
     ]]>
     </releaseNotes>
     <dependencies>
-      <dependency id="SQLitePCL.raw_basic" version="0.7.1" />
+      <dependency id="SQLitePCL.raw" version="0.8.4" />
     </dependencies>
   </metadata>
   <files>
